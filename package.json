@@ -7,5 +7,9 @@
   },
   "devDependencies": {
     "nuxt3": "latest"
+  },
+  "dependencies": {
+    "@8base/auth": "^2.6.5",
+    "graphql-request": "^4.0.0"
   }
 }
