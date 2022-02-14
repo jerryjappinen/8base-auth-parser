@@ -4,6 +4,8 @@ Minumum repro for this stack trace:
 
 Uncaught (in promise) TypeError: (0 , import_defineToJSON.default) is not a function
 
+![stack.png](./stack.png)
+
 ```
 Uncaught (in promise) TypeError: (0 , import_defineToJSON.default) is not a function
     at node_modules/graphql/language/parser.mjs (@8base_auth.js:17154:37)
