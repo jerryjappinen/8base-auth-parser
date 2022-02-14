@@ -11,9 +11,6 @@
   },
   "dependencies": {
     "@8base/auth": "^2.6.5",
-    "@pinia/nuxt": "^0.1.8",
-    "graphql-request": "^4.0.0",
-    "lodash": "^4.17.21",
-    "pinia": "^2.0.11"
+    "graphql-request": "^4.0.0"
   }
 }
