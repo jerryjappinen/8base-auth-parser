@@ -2,6 +2,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxi dev",
+    "open": "npm run dev -- -o",
     "build": "nuxi build",
     "start": "node .output/server/index.mjs"
   },
@@ -10,6 +11,9 @@
   },
   "dependencies": {
     "@8base/auth": "^2.6.5",
-    "graphql-request": "^4.0.0"
+    "@pinia/nuxt": "^0.1.8",
+    "graphql-request": "^4.0.0",
+    "lodash": "^4.17.21",
+    "pinia": "^2.0.11"
   }
 }
