@@ -7,7 +7,7 @@
     "start": "node .output/server/index.mjs"
   },
   "devDependencies": {
-    "nuxt3": "latest"
+    "nuxt3": "3.0.0-27409835.c53c736"
   },
   "dependencies": {
     "@8base/auth": "^2.6.5",
